@@ -7,6 +7,10 @@ overflow: hidden;
 background-color: yellow;
 }
 
+.imagelimiter {
+max-height: 200px;
+}
+
 li {
 float: left;
 }
