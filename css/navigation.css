@@ -7,8 +7,9 @@ overflow: hidden;
 background-color: yellow;
 }
 
-.imagelimiter {
-max-height: 200px;
+img{
+    width:100%;
+    max-width:600px;
 }
 
 li {
